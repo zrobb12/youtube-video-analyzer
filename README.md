@@ -5,7 +5,7 @@ This is a Python CLI tool to fetch, transcribe, and summarize YouTube videos usi
 
 ## Features
 
-- Fetch and transcribe YouTube videos (English only, if transcripts available).
+- Fetch and transcribe YouTube videos.
 - Summarize video transcripts using Venice or Morpheus LLMs.
 - Ask questions about the video content interactively.
 - Fully customizable summary prompt.
